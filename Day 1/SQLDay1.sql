@@ -29,9 +29,7 @@ update Employee set salary = 35000 where name = 'Parth'
 --Delete data
 delete from Employee where name = 'Zoya'
 
-select * from Employee
-
-
+select * from Employee 
 
 
 
