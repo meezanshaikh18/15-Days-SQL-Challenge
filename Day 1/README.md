@@ -53,7 +53,7 @@ To build a strong foundation in SQL that will help in:
 
 | Day | Topic | Status |
 |-----|------|--------|
-| Day 1 | SQL Basics & Setup | ✅ Completed |
+| Day 1 | SQL Basics & Setup | ✅ Completed | 
 | Day 2 | Coming Soon | ⏳ |
 
 ---
