@@ -1,51 +1,67 @@
-🚀 Day 2 - SQL Delete, DML & DDL Concepts
+🚀 Day 2 - SQL DML, DDL & Practical Operations
 
-Welcome to Day 2 of my 15 Days SQL Learning Challenge
-Continuing the journey of mastering SQL with deeper concepts and hands-on practice.
+Welcome to Day 2 of my 15 Days SQL Learning Challenge  
+Today I focused on understanding core SQL commands and practicing real database operations.
 
 📌 What I Learned
-🗑️ Delete Operations
-Used DELETE command with TOP
-Learned how to delete specific number of rows
-Practiced deleting records with same values using conditions
-🧪 Practical Implementation
-✅ Practical 1
-Created a Student Table
-Inserted multiple rows
-Executed queries to:
-DELETE records
-UPDATE records
-📊 DML (Data Manipulation Language)
 
-Learned and practiced:
+1️⃣ DELETE Command with TOP  
+- Learned how to delete limited records using TOP  
+- Understood how to control data deletion safely  
 
-INSERT → Add data
-SELECT → Retrieve data
-UPDATE → Modify data
-DELETE → Remove data
-🏗️ DDL (Data Definition Language)
+2️⃣ Handling Duplicate Records  
+- Created multiple records with the same values  
+- Used DELETE with TOP to remove specific rows  
 
-Explored structure-related commands:
+3️⃣ Practical Implementation (Student Table)  
+- Created a Student table  
+- Inserted multiple rows  
+- Executed queries successfully  
+- Performed:
+  - DELETE operations  
+  - UPDATE operations  
 
-CREATE → Create tables/databases
-ALTER → Modify table structure
-DROP → Delete table/database
-TRUNCATE → Remove all records quickly
+4️⃣ DML (Data Manipulation Language)  
+- INSERT → Add new data  
+- SELECT → Retrieve data  
+- UPDATE → Modify data  
+- DELETE → Remove data  
+
+5️⃣ DDL (Data Definition Language)  
+- CREATE → Create database/table  
+- ALTER → Modify structure  
+- DROP → Delete table/database  
+- TRUNCATE → Remove all records  
+
+🛠️ Practical Work
+- Created and managed a Student table  
+- Inserted and modified records  
+- Performed delete operations using conditions  
+
 💻 Files Included
-SQLDay2.sql → Contains all queries practiced on Day 2
+- SQLDay2.sql → Main queries  
+- Learning.sql → Practice queries  
+- Practical 1.xlsx → Dataset  
+- Screenshots → Output results  
+
 🎯 Objective
-Strengthen understanding of data manipulation
-Learn how to safely modify and delete data
-Understand difference between DML vs DDL
+To strengthen understanding of:
+- Data manipulation (DML)  
+- Database structure (DDL)  
+- Real-world SQL operations  
+
 📅 Challenge Progress
-Day	Topic	Status
-Day 1	SQL Basics & Setup	✅ Completed
-Day 2	Delete, DML & DDL	✅ Completed
-Day 3	Coming Soon	⏳
-🔗 Connect With Me
+
+| Day   | Topic                          | Status        |
+|------|--------------------------------|--------------|
+| Day 1 | SQL Basics & Setup             | ✅ Completed |
+| Day 2 | DML, DDL & Practical Queries   | ✅ Completed |
+| Day 3 | Joins (Coming Next)            | ⏳           |
+
+🔗 Connect With Me  
 LinkedIn: https://www.linkedin.com/in/meezan-shaikh-171304307/
-⭐ Note
 
-This is part of my #15DaysSQLChallenge where I share daily progress, learnings, and hands-on practice.
+⭐ Note  
+This is part of my #15DaysSQLChallenge where I share daily progress and hands-on practice.
 
-Consistency is the key 🔥 Keep learning, keep building 🚀
+Stay consistent. Stay focused. 🚀
